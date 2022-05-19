@@ -14,6 +14,4 @@
 
 ### Featured
 
-[<img src="inquests_ca.png" width="100" height="100" />](https://inquests.ca) \
-[inquests.ca](https://inquests.ca) \
-A searchable repository of over 1800 records pertaining to Canadian death investigations.
+[inquests.ca](https://inquests.ca): A searchable repository of over 1800 records pertaining to Canadian death investigations.
