@@ -3,7 +3,6 @@
 - New grad, Systems Design Engineering @ UWaterloo
 - Looking for full-time
 - Climber 🧗‍♂️
-- Cyclist 🚴‍♂️
 - Proud juggler 🤹‍♂️
 
 ### Experience
