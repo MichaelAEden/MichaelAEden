@@ -1,9 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-- New grad, Systems Design Engineering @ UWaterloo
-- Looking for full-time
-- Climber 🧗‍♂️
-- Proud juggler 🤹‍♂️
+New grad, Systems Design Engineering @ UWaterloo
 
 ### Experience
 
